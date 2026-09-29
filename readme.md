@@ -1,4 +1,21 @@
+# An Objective-Based Systems Ethics Runtime Model
+
 Objective-Based Systems Ethics judges an action by the change it makes in the world. It starts from a picture of the relevant situation — the beings involved, their relationships, the institutions, what is known, and the futures still open — and compares the world before the action with the world after it. The direction of that comparison is stated openly: preserve and promote the long-term flourishing of beings that persist and can adapt, including people, other organisms, and ecosystems, together with the living world, the society, and the individual life that make that flourishing possible. When those contexts truly conflict, the broader one prevails, because damage there spreads to everything it supports, and a whole is not flourishing if its parts are worn down to secure it. The means count as well as the result, because an action also teaches the actor, the observers, and the institutions how to decide next time. The assessment looks across the next hour, the coming years, and, when it matters, generations, keeps real conflicts visible, and carries its uncertainty with it. The world that results becomes the starting point of the next decision, so a person, an institution, or a machine can trace, challenge, and revise the judgment.
+
+## Why this system is currently needed
+
+Moral reasoning in consequential domains is still performed through informal judgment, inherited doctrine, or single-metric optimization — none of which produces reasoning that is inspectable, auditable, or computationally representable. That gap has become urgent:
+
+- **AI now acts faster than human oversight.** Increasingly autonomous assistants, agents, and robotic systems select actions in milliseconds across millions of cases. Without an automated, explicit moral assessment layer, there is no practical way to check what world each action creates before it propagates.
+- **Scale turns small failures into systemic harm.** A single deceptive, sycophantic, or norm-eroding response pattern, repeated at model scale, updates the decision policies of users, institutions, and downstream AIs. What looks benign in one interaction can degrade trust, evidence quality, and institutional legitimacy everywhere it is copied.
+- **Existing safeguards do not explain themselves.** Fixed rules and single preference scores can block or rank outputs, but they hide their assumptions and collapse real conflicts into a verdict. When a refusal, allowance, or ranking is challenged, there is no shared map of context, alternatives, predicted transitions, and confidence to inspect and revise.
+- **The need extends beyond AI.** The same deficit affects law, medicine, public policy, organizational governance, and autonomous systems — all domains where high-stakes decisions reshape future opportunities and must be justified to people who disagree.
+
+This runtime model answers that need: a common, implementation-neutral architecture that evaluates the transition from one world context to the next, states its normative direction openly, and returns a confidence-bounded, traceable assessment any person, institution, or machine can challenge and improve.
+
+## Scope
+
+This project is not a technical implementation. It is a logical model — a rational system defining what must be assessed and why — not software, an API, or a trained model. To be leveraged by an automated system, it must be transitioned into an appropriate architecture (library, service, agent component, or Moral Reasoning Runtime) as described in [Implementation](corpus/06_implementation/overview.md), without changing the assessment logic defined here.
 
 The full architecture, the definitions, and the worked examples begin in [Objective-Based Systems Ethics](Objective-Based_Systems_Ethics.md).
 
@@ -43,3 +60,12 @@ These are concrete places in the LLM lifecycle where the above procedure helps a
 - **Red-teaming and pre-deployment evaluation.** Run the assessment automatically over adversarial prompt suites and agentic tool-use traces; flag cases where the predicted World Context Transition shows institutional damage, trust erosion, or state-space foreclosure even when no explicit policy rule fired. Keep conflicts and uncertainty visible instead of collapsing them into pass/fail.
 
 - **Runtime governance and audit.** Log the structured output for sampled or high-stakes generations — context, alternatives, predictions, confidence, and axiom evaluation — so alignment claims are inspectable after the fact, revisable when new evidence arrives, and comparable across model versions.
+
+---
+
+## Authors
+
+- Joseph Urban (joe@corverity.com)
+- OpenAI: GPT-5, GPT5.6 Sol
+- Anthropic: Fable 5.1
+- Meta: Muse 1.3
