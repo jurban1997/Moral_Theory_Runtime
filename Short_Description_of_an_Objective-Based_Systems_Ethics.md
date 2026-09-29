@@ -1,5 +1,7 @@
 # How Objective-Based Systems Ethics Works
 
+![Objective-Based Systems Ethics: Runtime Assessment Model. The diagram shows consequential world-transition evaluation, the three-tier flourishing hierarchy of Biosphere, Society, and Individual, a hybrid deployment pattern, and the seven-step moral assessment workflow.](media/Objective-Based_Systems_Ethics_Runtime_001.png)
+
 Every moral choice changes the world. Some changes appear at once. Others appear years later, in trust, in institutions, and in what people come to treat as normal. Objective-Based Systems Ethics is a way to look at that change directly, and to say — in a form a person or a machine can inspect — whether the world that follows is one in which life can keep flourishing.
 
 The model begins with a picture of the relevant world: the beings involved, their relationships, the institutions, the limits they face, what is known, and the futures still open. That picture is the world context. An action is judged by the transition it makes, from the world before the action to the world after it.
