@@ -1,7 +1,7 @@
 # An Objective-Based Systems Ethics Runtime Model
 
-(This project was generated in collaboration with multiple LLMs but was highly orchestrated by the human author.  It is structured on GitHub so that supporting components can be developed independently by the community.)
-**This project was posted to GitHub because it is highly modular.  The author encourages collaboration on improving the components. Ultimately this can be used as a specification for a software-based architecture.**
+**This project was generated in collaboration with multiple LLMs but was highly orchestrated by the human author.  It is structured on GitHub so that supporting components can be developed independently by the community.
+It is modular, enabling a structured approach to a complex system.  The author encourages collaboration on improving the components. Ultimately this can be used as a specification for a software-based architecture.**
 
 ![Objective-Based Systems Ethics: Runtime Assessment Model. The diagram shows consequential world-transition evaluation, the three-tier flourishing hierarchy of Biosphere, Society, and Individual, a hybrid deployment pattern, and the seven-step moral assessment workflow.](media/Objective-Based_Systems_Ethics_Runtime_001.png)
 
