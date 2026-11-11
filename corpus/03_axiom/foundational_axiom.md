@@ -4,6 +4,8 @@
 
 # Foundational Axiom
 
+A stable moral system preserves and promotes the long-term flourishing of relevant Flourishing Entities and of the Biosphere, Society, and Individual contexts in which they participate, which mutually constitute one another and are ordered so that, where sustained enabling capacities genuinely conflict, the broader tier prevails. That priority orders enabling conditions rather than moral worth: the system fosters moral agents' adaptive development as part of their own flourishing, and it avoids actions that, on the best available evidence, materially diminish the long-term flourishing of other relevant Flourishing Entities, never securing the whole by systematically diminishing the sustained capacity of its parts.
+
 > Editorial note: Later sections that operationalize the axiom should cross-reference this section, because the reader will not yet have encountered the full model at this point.
 
 ## Foundational Axiom Statement
