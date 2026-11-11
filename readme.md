@@ -15,7 +15,7 @@ Summary Documents:
 
 - [How Objective-Based Systems Ethics Works](Short_Description_of_an_Objective-Based_Systems_Ethics.md)
 - [Objective-Based Systems Ethics](Objective-Based_Systems_Ethics.md)
-- [Moral Theory Handout](Moral_Theory_Handout_Document_001)
+- [Moral Theory Handout](Moral_Theory_Handout_Document_001.docx)
 
 ## Why this system is currently needed
 
