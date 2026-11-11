@@ -9,6 +9,14 @@ Audio: <a href="https://notebook.google.com/notebook/d7389f02-7c9d-48da-9548-024
 
 Objective-Based Systems Ethics judges an action by the change it makes in the world. It starts from a picture of the relevant situation — the beings involved, their relationships, the institutions, what is known, and the futures still open — and compares the world before the action with the world after it. The direction of that comparison is stated openly: preserve and promote the long-term flourishing of beings that persist and can adapt, including people, other organisms, and ecosystems, together with the living world, the society, and the individual life that make that flourishing possible. When those contexts truly conflict, the broader one prevails, because damage there spreads to everything it supports, and a whole is not flourishing if its parts are worn down to secure it. The means count as well as the result, because an action also teaches the actor, the observers, and the institutions how to decide next time. The assessment looks across the next hour, the coming years, and, when it matters, generations, keeps real conflicts visible, and carries its uncertainty with it. The world that results becomes the starting point of the next decision, so a person, an institution, or a machine can trace, challenge, and revise the judgment.
 
+[Foundational Axiom](corpus/03_axiom/foundational_axiom.md): A stable moral system preserves and promotes the long-term flourishing of relevant Flourishing Entities and of the Biosphere, Society, and Individual contexts in which they participate, which mutually constitute one another and are ordered so that, where sustained enabling capacities genuinely conflict, the broader tier prevails. That priority orders enabling conditions rather than moral worth: the system fosters moral agents' adaptive development as part of their own flourishing, and it avoids actions that, on the best available evidence, materially diminish the long-term flourishing of other relevant Flourishing Entities, never securing the whole by systematically diminishing the sustained capacity of its parts.
+
+Summary Documents:
+
+- [How Objective-Based Systems Ethics Works](Short_Description_of_an_Objective-Based_Systems_Ethics.md)
+- [Objective-Based Systems Ethics](Objective-Based_Systems_Ethics.md)
+- [Moral Theory Handout](Moral_Theory_Handout_Document_001)
+
 ## Why this system is currently needed
 
 Moral reasoning in consequential domains is still performed through informal judgment, inherited doctrine, or single-metric optimization — none of which produces reasoning that is inspectable, auditable, or computationally representable. That gap has become urgent:
